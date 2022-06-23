@@ -2,7 +2,7 @@
     "title": "BLB Wet Ring",
     "description": "A webring of blaseball fans and people who are wet",
     "image": "https://images.vexels.com/media/users/3/194259/isolated/lists/f262ba4130ff23b18cf0c00c4f0f9b3b-baseball-ball-stroke-icon-baseball.png",
-    "url": "https://webringdemo.netlify.com",
+    "url": "https://wetwebring.netlify.app/",
     "repo": "https://github.com/ackasi/wetring",
     "admins": [
         {
