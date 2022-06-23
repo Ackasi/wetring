@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
+    "title": "BLB Wet Ring",
+    "description": "A webring of blaseball fans and people who are wet",
+    "image": "https://images.vexels.com/media/users/3/194259/isolated/lists/f262ba4130ff23b18cf0c00c4f0f9b3b-baseball-ball-stroke-icon-baseball.png",
     "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "repo": "https://github.com/ackasi/wetring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Avery Martinez",
+            "url": "https://github.com/Ackasi"
         }
     ]
 }
